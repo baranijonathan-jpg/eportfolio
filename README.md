@@ -1,5 +1,3 @@
-# Jonathan Barani — Cosmic Web3 Journey
-
 Single-file portfolio (HTML/CSS/JS) — lightweight, animated, and accessible.
 
 Files:
